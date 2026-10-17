@@ -1,0 +1,44 @@
+name: Yugi SB Bot v2 daily
+
+on:
+  schedule:
+    - cron: "7 12 * * *"    # about 8 AM Eastern (7 AM in winter), every day including weekends
+    - cron: "30 21 * * *"   # 5:30 PM Eastern (4:30 PM in winter), catches line moves before night games
+  workflow_dispatch:         # adds a "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yugi-sb-bot-v2
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120   # room for big college football Saturdays
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Remember finished seasons between runs
+        uses: actions/cache@v4
+        with:
+          path: docs/.cache
+          key: yugi-v2-cache-${{ github.run_id }}
+          restore-keys: |
+            yugi-v2-cache-
+      - name: Build today's board
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          SGO_API_KEY: ${{ secrets.SGO_API_KEY }}
+          ODDS_BUDGET: "40"
+        run: python yugi_sb_bot_v2.py --no-open --out docs
+      - name: Publish it
+        run: |
+          git config user.name "yugi-sb-bot"
+          git config user.email "yugi-sb-bot@users.noreply.github.com"
+          git add docs/index.html docs/archive docs/history.csv docs/manifest.webmanifest docs/*.png
+          git commit -m "Yugi SB Bot v2 board for $(TZ=America/New_York date +%F)" || echo "Nothing changed"
+          git push
