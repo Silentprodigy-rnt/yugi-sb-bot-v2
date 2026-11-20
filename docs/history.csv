@@ -1693,57 +1693,124 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-18,NHL,401892739,2026-11-19T00:30:00+00:00,Boston Bruins,Detroit Red Wings,6.5,+120,-142,Draft Kings,10,5.80,5.50,0.70,1.00,5.98,6.5,,,,,,,,,6.5,,,,5,under
 2026-11-18,NHL,401892740,2026-11-19T00:30:00+00:00,Montreal Canadiens,New Jersey Devils,6.5,+114,-135,Draft Kings,10,5.90,7.00,0.60,-0.50,6.30,6.5,,,,,,,,,6.5,,,,5,under
 2026-11-18,NHL,401892741,2026-11-19T03:00:00+00:00,Colorado Avalanche,Utah Mammoth,6.5,-102,-118,DraftKings,7,4.71,5.00,1.79,1.50,6.86,6.5,,,,,,,,,6.5,,,,5,under
-2026-11-19,NBA,401910019,2026-11-20T01:00:00+00:00,Golden State Warriors,Memphis Grizzlies,224.5,-110,-110,DraftKings,10,238.60,239.00,-14.10,-14.50,231.16,224.5,over,Lean,-110,224.5,3:26 PM,0.641,0.117,,224.5,,,,,
-2026-11-19,NBA,401910020,2026-11-20T01:00:00+00:00,Portland Trail Blazers,Milwaukee Bucks,230.5,-112,-108,DraftKings,10,227.50,229.50,3.00,1.00,228.78,230.5,,,,,,,,,230.5,,,,,
-2026-11-19,NBA,401910021,2026-11-20T01:00:00+00:00,New York Knicks,Minnesota Timberwolves,216.5,-110,-110,DraftKings,10,226.70,220.50,-10.20,-4.00,217.23,216.5,,,,,,,,,216.5,,,,,
-2026-11-19,NBA,401910022,2026-11-20T01:00:00+00:00,LA Clippers,San Antonio Spurs,224.5,-113,-107,DraftKings,10,222.70,220.00,1.80,4.50,225.72,224.5,,,,,,,,,224.5,,,,,
-2026-11-19,NCAAB,401920519,2026-11-19T22:00:00+00:00,Notre Dame Fighting Irish,Auburn Tigers,151.5,-110,-110,DraftKings,,,,,,154.85,151.5,,,,,,,,,151.5,,,,,
-2026-11-19,NCAAB,401918959,2026-11-19T23:00:00+00:00,NC State Wolfpack,Murray State Racers,164.5,-112,-108,DraftKings,,,,,,,164.5,,,,,,,,,164.5,,,,,
-2026-11-19,NCAAB,401928826,2026-11-20T00:00:00+00:00,Robert Morris Colonials,Toledo Rockets,144.5,-105,-115,DraftKings,,,,,,,144.5,,,,,,,,,144.5,,,,,
-2026-11-19,NCAAB,401923304,2026-11-20T00:00:00+00:00,Maine Black Bears,Quinnipiac Bobcats,133.5,-108,-112,DraftKings,3,122.33,120.00,11.17,13.50,141.05,133.5,,,,,,,,,133.5,,,,,
-2026-11-19,NCAAB,401920878,2026-11-20T00:00:00+00:00,Little Rock Trojans,Jacksonville Dolphins,144.5,-105,-115,DraftKings,,,,,,,144.5,,,,,,,,,144.5,,,,,
-2026-11-19,NCAAB,401920413,2026-11-20T00:00:00+00:00,Montana State Bobcats,High Point Panthers,144.5,-115,-105,DraftKings,,,,,,142.07,144.5,,,,,,,,,144.5,,,,,
-2026-11-19,NCAAB,401916318,2026-11-20T00:00:00+00:00,UMBC Retrievers,Ohio State Buckeyes,155.5,-112,-108,DraftKings,,,,,,146.77,155.5,,,,,,,,,155.5,,,,,
-2026-11-19,NCAAB,401911021,2026-11-20T00:00:00+00:00,Buffalo Bulls,St. Bonaventure Bonnies,146.5,-112,-108,DraftKings,5,138.60,145.00,7.90,1.50,,146.5,,,,,,,,,146.5,,,,,
-2026-11-19,NCAAB,401902280,2026-11-20T00:00:00+00:00,Northeastern Huskies,Butler Bulldogs,163.5,-108,-112,DraftKings,,,,,,,163.5,,,,,,,,,163.5,,,,,
-2026-11-19,NCAAB,401926814,2026-11-20T00:30:00+00:00,Charleston Cougars,Drake Bulldogs,158.5,-110,-110,DraftKings,,,,,,,158.5,,,,,,,,,158.5,,,,,
-2026-11-19,NCAAB,401919005,2026-11-20T00:30:00+00:00,Tulane Green Wave,Louisiana Tech Bulldogs,142.5,-115,-105,DraftKings,,,,,,,142.5,,,,,,,,,142.5,,,,,
-2026-11-19,NCAAB,401906867,2026-11-20T01:00:00+00:00,Southern Utah Thunderbirds,Texas Longhorns,156.5,-108,-112,DraftKings,,,,,,,156.5,,,,,,,,,156.5,,,,,
-2026-11-19,NCAAB,401918950,2026-11-20T01:00:00+00:00,Stetson Hatters,Louisville Cardinals,154.5,-112,-108,DraftKings,,,,,,,154.5,,,,,,,,,154.5,,,,,
-2026-11-19,NCAAB,401921028,2026-11-20T01:00:00+00:00,Georgia Southern Eagles,Houston Christian Huskies,153.5,-105,-115,DraftKings,,,,,,,153.5,,,,,,,,,153.5,,,,,
-2026-11-19,NCAAB,401920845,2026-11-20T01:00:00+00:00,Southeast Missouri State Redhawks,St. Thomas Tommies,149.5,-108,-112,DraftKings,,,,,,158.23,149.5,,,,,,,,,149.5,,,,,
-2026-11-19,NCAAB,401919050,2026-11-20T01:00:00+00:00,Texas A&M Aggies,TCU Horned Frogs,162.5,-115,-105,DraftKings,,,,,,,162.5,,,,,,,,,162.5,,,,,
-2026-11-19,NCAAB,401920888,2026-11-20T01:30:00+00:00,Seton Hall Pirates,Wisconsin Badgers,138.5,-110,-110,DraftKings,,,,,,,138.5,,,,,,,,,138.5,,,,,
-2026-11-19,NCAAB,401920520,2026-11-20T01:30:00+00:00,Rutgers Scarlet Knights,UNLV Rebels,157.5,-110,-110,DraftKings,,,,,,159.14,157.5,,,,,,,,,157.5,,,,,
-2026-11-19,NCAAB,401930884,2026-11-20T02:00:00+00:00,Oregon State Beavers,Oregon Ducks,160.5,-110,-110,DraftKings,10,144.80,147.00,15.70,13.50,,160.5,,,,,,,,,160.5,,,,,
-2026-11-19,NCAAB,401928388,2026-11-20T02:00:00+00:00,Southern Miss Golden Eagles,Grambling Tigers,144.5,-110,-110,Draft Kings,,,,,,,146.5,,,,,,,,,146.5,,,,,
-2026-11-19,NCAAB,401928354,2026-11-20T02:00:00+00:00,UC Santa Barbara Gauchos,Pepperdine Waves,149.5,-110,-110,DraftKings,3,143.00,138.00,6.50,11.50,,149.5,,,,,,,,,149.5,,,,,
-2026-11-19,NCAAB,401925941,2026-11-20T02:00:00+00:00,Utah Tech Trailblazers,Washington Huskies,155.5,-110,-110,DraftKings,,,,,,,155.5,,,,,,,,,155.5,,,,,
-2026-11-19,NCAAB,401911534,2026-11-20T02:00:00+00:00,UTEP Miners,New Mexico State Aggies,132.5,-108,-112,DraftKings,10,137.40,130.50,-4.90,2.00,,132.5,,,,,,,,,132.5,,,,,
-2026-11-19,NCAAB,401920349,2026-11-20T03:00:00+00:00,Sacramento State Hornets,Stanford Cardinal,153.5,-108,-112,Draft Kings,,,,,,,154.5,,,,,,,,,154.5,,,,,
-2026-11-19,NCAAB,401918056,2026-11-20T03:00:00+00:00,East Texas A&M Lions,California Golden Bears,146.5,-108,-112,Draft Kings,,,,,,160.41,145.5,,,,,,,,,145.5,,,,,
-2026-11-19,NCAAB,401917536,2026-11-20T03:30:00+00:00,VCU Rams,Santa Clara Broncos,163.5,-115,-105,Draft Kings,,,,,,,163.5,,,,,,,,,163.5,,,,,
-2026-11-19,NCAAB,401920518,2026-11-20T04:00:00+00:00,Houston Cougars,Kansas Jayhawks,151.5,-105,-115,Draft Kings,6,134.67,124.50,16.83,27.00,155.25,150.5,,,,,,,,,150.5,,,,,
-2026-11-19,NCAAB,401926773,2026-11-20T04:00:00+00:00,Tarleton State Texans,USC Trojans,158.5,-110,-110,Draft Kings,,,,,,,158.5,,,,,,,,,158.5,,,,,
-2026-11-19,NCAAF,401862830,2026-11-20T00:30:00+00:00,Rice Owls,Temple Owls,51.5,-105,-115,DraftKings,,,,,,56.12,51.5,,,,,,,,,51.5,,,,,
-2026-11-19,NCAAW,401906092,2026-11-19T23:00:00+00:00,Texas Tech Lady Raiders,North Carolina Tar Heels,128.5,-110,-110,DraftKings,,,,,,,128.5,,,,,,,,,128.5,,,,,
-2026-11-19,NCAAW,401916008,2026-11-19T23:00:00+00:00,James Madison Dukes,Virginia Cavaliers,133.5,-105,-115,DraftKings,,,,,,127.69,133.5,,,,,,,,,133.5,,,,,
-2026-11-19,NCAAW,401922832,2026-11-20T00:00:00+00:00,Northwestern State Lady Demons,Oklahoma Sooners,145.5,-110,-110,DraftKings,,,,,,147.25,145.5,,,,,,,,,145.5,,,,,
-2026-11-19,NCAAW,401911508,2026-11-20T00:00:00+00:00,Radford Highlanders,Tennessee Lady Volunteers,152.5,-102,-118,DraftKings,,,,,,141.67,152.5,,,,,,,,,152.5,,,,,
-2026-11-19,NCAAW,401921426,2026-11-20T01:00:00+00:00,Montana State Bobcats,Iowa Hawkeyes,134.5,-118,-102,DraftKings,,,,,,,134.5,,,,,,,,,134.5,,,,,
-2026-11-19,NCAAW,401912969,2026-11-20T01:00:00+00:00,Fairleigh Dickinson Knights,LSU Tigers,148.5,-110,-110,DraftKings,,,,,,150.39,148.5,,,,,,,,,148.5,,,,,
-2026-11-19,NCAAW,401912994,2026-11-20T01:30:00+00:00,Alabama Crimson Tide,Florida A&M Rattlers,141.5,-110,-110,DraftKings,,,,,,,141.5,,,,,,,,,141.5,,,,,
-2026-11-19,NCAAW,401918898,2026-11-20T03:00:00+00:00,Cal Poly Mustangs,UCLA Bruins,126.5,-110,-110,DraftKings,3,127.00,132.00,-0.50,-5.50,,126.5,,,,,,,,,126.5,,,,,
-2026-11-19,NFL,401873066,2026-11-20T01:15:00+00:00,Indianapolis Colts,Houston Texans,44.5,-104,-116,DraftKings,10,46.60,42.50,-2.10,2.00,49.25,44.5,,,,,,,,,44.5,,,,,
-2026-11-19,NHL,401892742,2026-11-20T00:00:00+00:00,Los Angeles Kings,Toronto Maple Leafs,6.5,+105,-125,DraftKings,10,6.50,6.00,0.00,0.50,6.04,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892743,2026-11-20T00:00:00+00:00,Philadelphia Flyers,Ottawa Senators,6.5,+110,-130,DraftKings,10,5.50,5.50,1.00,1.00,5.84,6.5,under,Strong,-130,6.5,3:26 PM,0.635,0.070,,6.5,,,,,
-2026-11-19,NHL,401892745,2026-11-20T00:00:00+00:00,St. Louis Blues,Pittsburgh Penguins,6.5,+102,-122,DraftKings,10,7.60,8.00,-1.10,-1.50,6.06,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892746,2026-11-20T00:00:00+00:00,Buffalo Sabres,Washington Capitals,6.5,-125,+105,DraftKings,10,7.20,7.00,-0.70,-0.50,7.00,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892747,2026-11-20T00:00:00+00:00,Montreal Canadiens,Carolina Hurricanes,6.5,-105,-115,DraftKings,10,6.80,6.50,-0.30,0.00,6.11,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892749,2026-11-20T00:00:00+00:00,New York Islanders,Winnipeg Jets,6.5,-105,-115,DraftKings,10,5.90,6.50,0.60,0.00,6.34,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892744,2026-11-20T00:30:00+00:00,Edmonton Oilers,Tampa Bay Lightning,6.5,+105,-125,DraftKings,10,6.50,6.00,0.00,0.50,6.10,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892748,2026-11-20T01:00:00+00:00,Columbus Blue Jackets,Chicago Blackhawks,5.5,-130,+110,DraftKings,10,7.10,6.50,-1.60,-1.00,6.11,5.5,over,Strong,-130,5.5,3:26 PM,0.625,0.060,,5.5,,,,,
-2026-11-19,NHL,401892750,2026-11-20T01:00:00+00:00,Minnesota Wild,Calgary Flames,6.5,+102,-122,DraftKings,10,5.30,5.00,1.20,1.50,5.97,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892751,2026-11-20T02:00:00+00:00,Anaheim Ducks,Colorado Avalanche,6.5,-125,+105,DraftKings,10,6.40,6.00,0.10,0.50,7.55,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892752,2026-11-20T02:40:00+00:00,Vancouver Canucks,Seattle Kraken,6.5,-112,-108,Draft Kings,10,6.80,7.00,-0.30,-0.50,6.92,6.5,,,,,,,,,6.5,,,,,
-2026-11-19,NHL,401892753,2026-11-20T03:00:00+00:00,Dallas Stars,Vegas Golden Knights,5.5,-115,-105,Draft Kings,10,5.30,5.00,0.20,0.50,5.95,5.5,,,,,,,,,5.5,,,,,
+2026-11-19,NBA,401910019,2026-11-20T01:00:00+00:00,Golden State Warriors,Memphis Grizzlies,224.5,-110,-110,DraftKings,10,238.60,239.00,-14.10,-14.50,231.16,224.5,over,Lean,-110,224.5,3:26 PM,0.641,0.117,under,224.5,,,,224,under
+2026-11-19,NBA,401910020,2026-11-20T01:00:00+00:00,Portland Trail Blazers,Milwaukee Bucks,230.5,-112,-108,DraftKings,10,227.50,229.50,3.00,1.00,228.78,230.5,,,,,,,,,230.5,,,,238,over
+2026-11-19,NBA,401910021,2026-11-20T01:00:00+00:00,New York Knicks,Minnesota Timberwolves,216.5,-110,-110,DraftKings,10,226.70,220.50,-10.20,-4.00,217.23,216.5,,,,,,,,,216.5,,,,201,under
+2026-11-19,NBA,401910022,2026-11-20T01:00:00+00:00,LA Clippers,San Antonio Spurs,224.5,-113,-107,DraftKings,10,222.70,220.00,1.80,4.50,225.72,224.5,,,,,,,,,224.5,,,,236,over
+2026-11-19,NCAAB,401920519,2026-11-19T22:00:00+00:00,Notre Dame Fighting Irish,Auburn Tigers,151.5,-110,-110,DraftKings,,,,,,154.85,151.5,,,,,,,,,151.5,,,,151,under
+2026-11-19,NCAAB,401918959,2026-11-19T23:00:00+00:00,NC State Wolfpack,Murray State Racers,164.5,-112,-108,DraftKings,,,,,,,164.5,,,,,,,,,164.5,,,,176,over
+2026-11-19,NCAAB,401928826,2026-11-20T00:00:00+00:00,Robert Morris Colonials,Toledo Rockets,144.5,-105,-115,DraftKings,,,,,,,144.5,,,,,,,,,144.5,,,,159,over
+2026-11-19,NCAAB,401923304,2026-11-20T00:00:00+00:00,Maine Black Bears,Quinnipiac Bobcats,133.5,-108,-112,DraftKings,3,122.33,120.00,11.17,13.50,141.05,133.5,,,,,,,,,133.5,,,,136,over
+2026-11-19,NCAAB,401920878,2026-11-20T00:00:00+00:00,Little Rock Trojans,Jacksonville Dolphins,144.5,-105,-115,DraftKings,,,,,,,144.5,,,,,,,,,144.5,,,,150,over
+2026-11-19,NCAAB,401920413,2026-11-20T00:00:00+00:00,Montana State Bobcats,High Point Panthers,144.5,-115,-105,DraftKings,,,,,,142.07,144.5,,,,,,,,,144.5,,,,159,over
+2026-11-19,NCAAB,401916318,2026-11-20T00:00:00+00:00,UMBC Retrievers,Ohio State Buckeyes,155.5,-112,-108,DraftKings,,,,,,146.77,155.5,,,,,,,,,155.5,,,,163,over
+2026-11-19,NCAAB,401911021,2026-11-20T00:00:00+00:00,Buffalo Bulls,St. Bonaventure Bonnies,146.5,-112,-108,DraftKings,5,138.60,145.00,7.90,1.50,,146.5,,,,,,,,,146.5,,,,147,over
+2026-11-19,NCAAB,401902280,2026-11-20T00:00:00+00:00,Northeastern Huskies,Butler Bulldogs,163.5,-108,-112,DraftKings,,,,,,,163.5,,,,,,,,,163.5,,,,161,under
+2026-11-19,NCAAB,401926814,2026-11-20T00:30:00+00:00,Charleston Cougars,Drake Bulldogs,158.5,-110,-110,DraftKings,,,,,,,158.5,,,,,,,,,158.5,,,,156,under
+2026-11-19,NCAAB,401919005,2026-11-20T00:30:00+00:00,Tulane Green Wave,Louisiana Tech Bulldogs,142.5,-115,-105,DraftKings,,,,,,,142.5,,,,,,,,,142.5,,,,141,under
+2026-11-19,NCAAB,401906867,2026-11-20T01:00:00+00:00,Southern Utah Thunderbirds,Texas Longhorns,156.5,-108,-112,DraftKings,,,,,,,156.5,,,,,,,,,156.5,,,,160,over
+2026-11-19,NCAAB,401918950,2026-11-20T01:00:00+00:00,Stetson Hatters,Louisville Cardinals,154.5,-112,-108,DraftKings,,,,,,,154.5,,,,,,,,,154.5,,,,152,under
+2026-11-19,NCAAB,401921028,2026-11-20T01:00:00+00:00,Georgia Southern Eagles,Houston Christian Huskies,153.5,-105,-115,DraftKings,,,,,,,153.5,,,,,,,,,153.5,,,,165,over
+2026-11-19,NCAAB,401920845,2026-11-20T01:00:00+00:00,Southeast Missouri State Redhawks,St. Thomas Tommies,149.5,-108,-112,DraftKings,,,,,,158.23,149.5,,,,,,,,,149.5,,,,154,over
+2026-11-19,NCAAB,401919050,2026-11-20T01:00:00+00:00,Texas A&M Aggies,TCU Horned Frogs,162.5,-115,-105,DraftKings,,,,,,,162.5,,,,,,,,,162.5,,,,189,over
+2026-11-19,NCAAB,401920888,2026-11-20T01:30:00+00:00,Seton Hall Pirates,Wisconsin Badgers,138.5,-110,-110,DraftKings,,,,,,,138.5,,,,,,,,,138.5,,,,143,over
+2026-11-19,NCAAB,401920520,2026-11-20T01:30:00+00:00,Rutgers Scarlet Knights,UNLV Rebels,157.5,-110,-110,DraftKings,,,,,,159.14,157.5,,,,,,,,,157.5,,,,159,over
+2026-11-19,NCAAB,401930884,2026-11-20T02:00:00+00:00,Oregon State Beavers,Oregon Ducks,160.5,-110,-110,DraftKings,10,144.80,147.00,15.70,13.50,,160.5,,,,,,,,,160.5,,,,153,under
+2026-11-19,NCAAB,401928388,2026-11-20T02:00:00+00:00,Southern Miss Golden Eagles,Grambling Tigers,144.5,-110,-110,Draft Kings,,,,,,,146.5,,,,,,,,,146.5,,,,203,over
+2026-11-19,NCAAB,401928354,2026-11-20T02:00:00+00:00,UC Santa Barbara Gauchos,Pepperdine Waves,149.5,-110,-110,DraftKings,3,143.00,138.00,6.50,11.50,,149.5,,,,,,,,,149.5,,,,168,over
+2026-11-19,NCAAB,401925941,2026-11-20T02:00:00+00:00,Utah Tech Trailblazers,Washington Huskies,155.5,-110,-110,DraftKings,,,,,,,155.5,,,,,,,,,155.5,,,,151,under
+2026-11-19,NCAAB,401911534,2026-11-20T02:00:00+00:00,UTEP Miners,New Mexico State Aggies,132.5,-108,-112,DraftKings,10,137.40,130.50,-4.90,2.00,,132.5,,,,,,,,,132.5,,,,153,over
+2026-11-19,NCAAB,401920349,2026-11-20T03:00:00+00:00,Sacramento State Hornets,Stanford Cardinal,153.5,-108,-112,Draft Kings,,,,,,,154.5,,,,,,,,,154.5,,,,143,under
+2026-11-19,NCAAB,401918056,2026-11-20T03:00:00+00:00,East Texas A&M Lions,California Golden Bears,146.5,-108,-112,Draft Kings,,,,,,160.41,145.5,,,,,,,,,145.5,,,,140,under
+2026-11-19,NCAAB,401917536,2026-11-20T03:30:00+00:00,VCU Rams,Santa Clara Broncos,163.5,-115,-105,Draft Kings,,,,,,,163.5,,,,,,,,,163.5,,,,160,under
+2026-11-19,NCAAB,401920518,2026-11-20T04:00:00+00:00,Houston Cougars,Kansas Jayhawks,151.5,-105,-115,Draft Kings,6,134.67,124.50,16.83,27.00,155.25,150.5,,,,,,,,,150.5,,,,175,over
+2026-11-19,NCAAB,401926773,2026-11-20T04:00:00+00:00,Tarleton State Texans,USC Trojans,158.5,-110,-110,Draft Kings,,,,,,,158.5,,,,,,,,,158.5,,,,147,under
+2026-11-19,NCAAF,401862830,2026-11-20T00:30:00+00:00,Rice Owls,Temple Owls,51.5,-105,-115,DraftKings,,,,,,56.12,51.5,,,,,,,,,51.5,,,,58,over
+2026-11-19,NCAAW,401906092,2026-11-19T23:00:00+00:00,Texas Tech Lady Raiders,North Carolina Tar Heels,128.5,-110,-110,DraftKings,,,,,,,128.5,,,,,,,,,128.5,,,,108,under
+2026-11-19,NCAAW,401916008,2026-11-19T23:00:00+00:00,James Madison Dukes,Virginia Cavaliers,133.5,-105,-115,DraftKings,,,,,,127.69,133.5,,,,,,,,,133.5,,,,111,under
+2026-11-19,NCAAW,401922832,2026-11-20T00:00:00+00:00,Northwestern State Lady Demons,Oklahoma Sooners,145.5,-110,-110,DraftKings,,,,,,147.25,145.5,,,,,,,,,145.5,,,,156,over
+2026-11-19,NCAAW,401911508,2026-11-20T00:00:00+00:00,Radford Highlanders,Tennessee Lady Volunteers,152.5,-102,-118,DraftKings,,,,,,141.67,152.5,,,,,,,,,152.5,,,,150,under
+2026-11-19,NCAAW,401921426,2026-11-20T01:00:00+00:00,Montana State Bobcats,Iowa Hawkeyes,134.5,-118,-102,DraftKings,,,,,,,134.5,,,,,,,,,134.5,,,,136,over
+2026-11-19,NCAAW,401912969,2026-11-20T01:00:00+00:00,Fairleigh Dickinson Knights,LSU Tigers,148.5,-110,-110,DraftKings,,,,,,150.39,148.5,,,,,,,,,148.5,,,,124,under
+2026-11-19,NCAAW,401912994,2026-11-20T01:30:00+00:00,Alabama Crimson Tide,Florida A&M Rattlers,141.5,-110,-110,DraftKings,,,,,,,141.5,,,,,,,,,141.5,,,,153,over
+2026-11-19,NCAAW,401918898,2026-11-20T03:00:00+00:00,Cal Poly Mustangs,UCLA Bruins,126.5,-110,-110,DraftKings,3,127.00,132.00,-0.50,-5.50,,126.5,,,,,,,,,126.5,,,,130,over
+2026-11-19,NFL,401873066,2026-11-20T01:15:00+00:00,Indianapolis Colts,Houston Texans,44.5,-104,-116,DraftKings,10,46.60,42.50,-2.10,2.00,49.25,44.5,,,,,,,,,44.5,,,,29,under
+2026-11-19,NHL,401892742,2026-11-20T00:00:00+00:00,Los Angeles Kings,Toronto Maple Leafs,6.5,+105,-125,DraftKings,10,6.50,6.00,0.00,0.50,6.04,6.5,,,,,,,,,6.5,,,,7,over
+2026-11-19,NHL,401892743,2026-11-20T00:00:00+00:00,Philadelphia Flyers,Ottawa Senators,6.5,+110,-130,DraftKings,10,5.50,5.50,1.00,1.00,5.84,6.5,under,Strong,-130,6.5,3:26 PM,0.635,0.070,over,6.5,,,,11,over
+2026-11-19,NHL,401892745,2026-11-20T00:00:00+00:00,St. Louis Blues,Pittsburgh Penguins,6.5,+102,-122,DraftKings,10,7.60,8.00,-1.10,-1.50,6.06,6.5,,,,,,,,,6.5,,,,7,over
+2026-11-19,NHL,401892746,2026-11-20T00:00:00+00:00,Buffalo Sabres,Washington Capitals,6.5,-125,+105,DraftKings,10,7.20,7.00,-0.70,-0.50,7.00,6.5,,,,,,,,,6.5,,,,9,over
+2026-11-19,NHL,401892747,2026-11-20T00:00:00+00:00,Montreal Canadiens,Carolina Hurricanes,6.5,-105,-115,DraftKings,10,6.80,6.50,-0.30,0.00,6.11,6.5,,,,,,,,,6.5,,,,3,under
+2026-11-19,NHL,401892749,2026-11-20T00:00:00+00:00,New York Islanders,Winnipeg Jets,6.5,-105,-115,DraftKings,10,5.90,6.50,0.60,0.00,6.34,6.5,,,,,,,,,6.5,,,,7,over
+2026-11-19,NHL,401892744,2026-11-20T00:30:00+00:00,Edmonton Oilers,Tampa Bay Lightning,6.5,+105,-125,DraftKings,10,6.50,6.00,0.00,0.50,6.10,6.5,,,,,,,,,6.5,,,,4,under
+2026-11-19,NHL,401892748,2026-11-20T01:00:00+00:00,Columbus Blue Jackets,Chicago Blackhawks,5.5,-130,+110,DraftKings,10,7.10,6.50,-1.60,-1.00,6.11,5.5,over,Strong,-130,5.5,3:26 PM,0.625,0.060,over,5.5,,,,6,over
+2026-11-19,NHL,401892750,2026-11-20T01:00:00+00:00,Minnesota Wild,Calgary Flames,6.5,+102,-122,DraftKings,10,5.30,5.00,1.20,1.50,5.97,6.5,,,,,,,,,6.5,,,,5,under
+2026-11-19,NHL,401892751,2026-11-20T02:00:00+00:00,Anaheim Ducks,Colorado Avalanche,6.5,-125,+105,DraftKings,10,6.40,6.00,0.10,0.50,7.55,6.5,,,,,,,,,6.5,,,,4,under
+2026-11-19,NHL,401892752,2026-11-20T02:40:00+00:00,Vancouver Canucks,Seattle Kraken,6.5,-112,-108,Draft Kings,10,6.80,7.00,-0.30,-0.50,6.92,6.5,,,,,,,,,6.5,,,,6,under
+2026-11-19,NHL,401892753,2026-11-20T03:00:00+00:00,Dallas Stars,Vegas Golden Knights,5.5,-115,-105,Draft Kings,10,5.30,5.00,0.20,0.50,5.95,5.5,,,,,,,,,5.5,,,,7,over
+2026-11-20,NBA,401909305,2026-11-21T00:00:00+00:00,Charlotte Hornets,Atlanta Hawks,219.5,-105,-115,Draft Kings,10,230.70,231.00,-11.20,-11.50,223.28,219.5,,,,,,,,,219.5,,,,,
+2026-11-20,NBA,401909306,2026-11-21T00:30:00+00:00,Orlando Magic,Brooklyn Nets,224.5,-107,-113,Draft Kings,10,210.00,211.50,14.50,13.00,226.45,224.5,,,,,,,,,224.5,,,,,
+2026-11-20,NBA,401909307,2026-11-21T00:30:00+00:00,Indiana Pacers,Cleveland Cavaliers,234.5,-107,-113,Draft Kings,10,234.70,234.50,-0.20,0.00,234.77,234.5,,,,,,,,,234.5,,,,,
+2026-11-20,NBA,401909308,2026-11-21T00:30:00+00:00,Toronto Raptors,Detroit Pistons,215.5,-114,-106,Draft Kings,10,226.10,224.50,-10.60,-9.00,226.33,215.5,over,Lean,-114,215.5,2:58 PM,0.721,0.188,,215.5,,,,,
+2026-11-20,NBA,401909309,2026-11-21T01:00:00+00:00,Washington Wizards,Chicago Bulls,237.5,-112,-108,Draft Kings,10,232.50,233.50,5.00,4.00,235.43,237.5,,,,,,,,,237.5,,,,,
+2026-11-20,NBA,401909310,2026-11-21T01:00:00+00:00,New Orleans Pelicans,Oklahoma City Thunder,227.5,-113,-107,Draft Kings,10,214.50,215.50,13.00,12.00,233.29,227.5,,,,,,,,,227.5,,,,,
+2026-11-20,NBA,401909311,2026-11-21T02:30:00+00:00,Phoenix Suns,Utah Jazz,225.5,-110,-110,Draft Kings,10,248.30,251.50,-22.80,-26.00,225.78,225.5,,,,,,,,,225.5,,,,,
+2026-11-20,NBA,401909312,2026-11-21T03:00:00+00:00,Houston Rockets,Denver Nuggets,226.5,-112,-108,Draft Kings,10,230.00,224.50,-3.50,2.00,230.52,226.5,,,,,,,,,226.5,,,,,
+2026-11-20,NBA,401909313,2026-11-21T03:00:00+00:00,Sacramento Kings,Los Angeles Lakers,229.5,-105,-115,Draft Kings,10,231.40,229.50,-1.90,0.00,235.29,229.5,,,,,,,,,229.5,,,,,
+2026-11-20,NCAAB,401920380,2026-11-20T20:00:00+00:00,Northwestern Wildcats,Virginia Tech Hokies,142.5,-112,-108,Draft Kings,,,,,,141.97,142.5,,,,,,,,,142.5,,,,,
+2026-11-20,NCAAB,401919826,2026-11-20T20:00:00+00:00,UAlbany Great Danes,Western Illinois Leathernecks,139.5,-108,-112,Draft Kings,,,,,,145.14,139.5,,,,,,,,,139.5,,,,,
+2026-11-20,NCAAB,401916123,2026-11-20T20:00:00+00:00,Indiana State Sycamores,Stephen F. Austin Lumberjacks,145.5,-112,-108,Draft Kings,,,,,,,145.5,,,,,,,,,145.5,,,,,
+2026-11-20,NCAAB,401922022,2026-11-20T21:00:00+00:00,South Dakota State Jackrabbits,Idaho State Bengals,142.5,-110,-110,Draft Kings,,,,,,,142.5,,,,,,,,,142.5,,,,,
+2026-11-20,NCAAB,401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,141.5,-108,-112,Draft Kings,,,,,,,141.5,,,,,,,,,141.5,,,,,
+2026-11-20,NCAAB,401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,150.5,-115,-105,Draft Kings,,,,,,139.74,150.5,,,,,,,,,150.5,,,,,
+2026-11-20,NCAAB,401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,138.5,-112,-108,Draft Kings,,,,,,,138.5,,,,,,,,,138.5,,,,,
+2026-11-20,NCAAB,401919827,2026-11-20T22:30:00+00:00,Mercyhurst Lakers,Canisius Golden Griffins,135.5,-112,-108,Draft Kings,,,,,,144.52,135.5,,,,,,,,,135.5,,,,,
+2026-11-20,NCAAB,401916124,2026-11-20T22:30:00+00:00,UT Martin Skyhawks,Southern Illinois Salukis,149.5,-105,-115,Draft Kings,,,,,,,149.5,,,,,,,,,149.5,,,,,
+2026-11-20,NCAAB,401920298,2026-11-20T23:00:00+00:00,Delaware Blue Hens,Cal State Northridge Matadors,151.5,-108,-112,Draft Kings,,,,,,,151.5,,,,,,,,,151.5,,,,,
+2026-11-20,NCAAB,401925828,2026-11-20T23:30:00+00:00,North Texas Mean Green,App State Mountaineers,132.5,-105,-115,Draft Kings,,,,,,,132.5,,,,,,,,,132.5,,,,,
+2026-11-20,NCAAB,401920427,2026-11-21T00:00:00+00:00,Loyola Maryland Greyhounds,Virginia Cavaliers,150.5,-112,-108,Draft Kings,,,,,,148.41,150.5,,,,,,,,,150.5,,,,,
+2026-11-20,NCAAB,401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,147.5,-105,-115,Draft Kings,,,,,,,147.5,,,,,,,,,147.5,,,,,
+2026-11-20,NCAAB,401927396,2026-11-21T00:00:00+00:00,Richmond Spiders,Western Kentucky Hilltoppers,149.5,-108,-112,Draft Kings,,,,,,142.03,149.5,,,,,,,,,149.5,,,,,
+2026-11-20,NCAAB,401926782,2026-11-21T00:00:00+00:00,Georgia State Panthers,Jacksonville State Gamecocks,137.5,-110,-110,Draft Kings,,,,,,153.60,137.5,,,,,,,,,137.5,,,,,
+2026-11-20,NCAAB,401926134,2026-11-21T00:00:00+00:00,Oakland Golden Grizzlies,Purdue Boilermakers,147.5,-110,-110,Draft Kings,,,,,,155.88,147.5,,,,,,,,,147.5,,,,,
+2026-11-20,NCAAB,401925927,2026-11-21T00:00:00+00:00,South Carolina State Bulldogs,The Citadel Bulldogs,142.5,-112,-108,Draft Kings,,,,,,151.86,142.5,,,,,,,,,142.5,,,,,
+2026-11-20,NCAAB,401924844,2026-11-21T00:00:00+00:00,Niagara Purple Eagles,Delaware State Hornets,134.5,-108,-112,Draft Kings,,,,,,,134.5,,,,,,,,,134.5,,,,,
+2026-11-20,NCAAB,401924736,2026-11-21T00:00:00+00:00,Monmouth Hawks,Princeton Tigers,140.5,-110,-110,Draft Kings,5,136.60,139.00,3.90,1.50,,140.5,,,,,,,,,140.5,,,,,
+2026-11-20,NCAAB,401921692,2026-11-21T00:00:00+00:00,Wisconsin Badgers,Murray State Racers,162.5,OFF,-108,Draft Kings,,,,,,152.75,162.5,,,,,,,,,162.5,,,,,
+2026-11-20,NCAAB,401921107,2026-11-21T00:00:00+00:00,Bellarmine Knights,Eastern Kentucky Colonels,144.5,-110,-110,Draft Kings,10,146.80,142.00,-2.30,2.50,155.33,144.5,,,,,,,,,144.5,,,,,
+2026-11-20,NCAAB,401921007,2026-11-21T00:00:00+00:00,Kansas City Roos,Iona Gaels,140.5,-112,-108,Draft Kings,,,,,,140.42,140.5,,,,,,,,,140.5,,,,,
+2026-11-20,NCAAB,401920922,2026-11-21T00:00:00+00:00,Western Michigan Broncos,Mount St. Mary's Mountaineers,143.5,-115,-105,Draft Kings,,,,,,,143.5,,,,,,,,,143.5,,,,,
+2026-11-20,NCAAB,401920818,2026-11-21T00:00:00+00:00,SE Louisiana Lions,Kennesaw State Owls,154.5,-112,-108,Draft Kings,,,,,,,154.5,,,,,,,,,154.5,,,,,
+2026-11-20,NCAAB,401920357,2026-11-21T00:00:00+00:00,Harvard Crimson,Holy Cross Crusaders,137.5,-105,-115,Draft Kings,5,128.20,134.00,9.30,3.50,135.39,137.5,,,,,,,,,137.5,,,,,
+2026-11-20,NCAAB,401920195,2026-11-21T00:00:00+00:00,Saint Joseph's Hawks,Drexel Dragons,138.5,-110,-110,Draft Kings,3,150.67,153.00,-12.17,-14.50,,138.5,,,,,,,,,138.5,,,,,
+2026-11-20,NCAAB,401916299,2026-11-21T00:00:00+00:00,Wagner Seahawks,Maryland Terrapins,148.5,-108,-112,Draft Kings,,,,,,,148.5,,,,,,,,,148.5,,,,,
+2026-11-20,NCAAB,401909709,2026-11-21T00:00:00+00:00,Central Michigan Chippewas,Pittsburgh Panthers,144.5,-115,-105,Draft Kings,,,,,,146.19,144.5,,,,,,,,,144.5,,,,,
+2026-11-20,NCAAB,401925865,2026-11-21T00:30:00+00:00,Tulsa Golden Hurricane,Mississippi State Bulldogs,152.5,-112,-108,Draft Kings,,,,,,,152.5,,,,,,,,,152.5,,,,,
+2026-11-20,NCAAB,401925080,2026-11-21T00:30:00+00:00,UT Arlington Mavericks,Northwestern State Demons,145.5,-110,-110,Draft Kings,,,,,,153.51,145.5,,,,,,,,,145.5,,,,,
+2026-11-20,NCAAB,401909545,2026-11-21T00:30:00+00:00,Iowa Hawkeyes,Xavier Musketeers,145.5,-108,-112,Draft Kings,,,,,,,145.5,,,,,,,,,145.5,,,,,
+2026-11-20,NCAAB,401921757,2026-11-21T01:00:00+00:00,UCF Knights,Vanderbilt Commodores,156.5,-112,-108,Draft Kings,,,,,,156.90,156.5,,,,,,,,,156.5,,,,,
+2026-11-20,NCAAB,401925740,2026-11-21T01:00:00+00:00,Mississippi Valley State Delta Devils,Arkansas Razorbacks,152.5,-108,-112,Draft Kings,,,,,,,152.5,,,,,,,,,152.5,,,,,
+2026-11-20,NCAAB,401929459,2026-11-21T01:00:00+00:00,South Alabama Jaguars,SMU Mustangs,147.5,-105,-115,Draft Kings,,,,,,157.27,147.5,,,,,,,,,147.5,,,,,
+2026-11-20,NCAAB,401920707,2026-11-21T01:00:00+00:00,Lipscomb Bisons,Alabama A&M Bulldogs,149.5,-105,-115,Draft Kings,5,142.80,129.00,6.70,20.50,152.53,149.5,,,,,,,,,149.5,,,,,
+2026-11-20,NCAAB,401919784,2026-11-21T01:00:00+00:00,Le Moyne Dolphins,Missouri Tigers,155.5,-105,-115,Draft Kings,,,,,,151.37,155.5,,,,,,,,,155.5,,,,,
+2026-11-20,NCAAB,401916290,2026-11-21T01:00:00+00:00,Kentucky Wildcats,Indiana Hoosiers,153.5,-108,-112,Draft Kings,,,,,,155.60,153.5,,,,,,,,,153.5,,,,,
+2026-11-20,NCAAB,401916125,2026-11-21T01:00:00+00:00,Utah Valley Wolverines,East Carolina Pirates,149.5,-105,-115,Draft Kings,,,,,,,149.5,,,,,,,,,149.5,,,,,
+2026-11-20,NCAAB,401909799,2026-11-21T01:00:00+00:00,Campbell Fighting Camels,Kansas State Wildcats,154.5,-115,-105,Draft Kings,,,,,,,154.5,,,,,,,,,154.5,,,,,
+2026-11-20,NCAAB,401906784,2026-11-21T01:00:00+00:00,Georgia Bulldogs,Georgia Tech Yellow Jackets,166.5,-110,-110,Draft Kings,5,157.00,156.00,9.50,10.50,156.20,166.5,,,,,,,,,166.5,,,,,
+2026-11-20,NCAAB,401913529,2026-11-21T02:00:00+00:00,Eastern Illinois Panthers,Illinois Fighting Illini,165.5,-112,-108,Draft Kings,3,151.67,144.00,13.83,21.50,164.22,165.5,,,,,,,,,165.5,,,,,
+2026-11-20,NCAAB,401928795,2026-11-21T02:00:00+00:00,Sam Houston Bearkats,Boise State Broncos,170.5,-110,-110,Draft Kings,,,,,,,170.5,,,,,,,,,170.5,,,,,
+2026-11-20,NCAAB,401920137,2026-11-21T02:00:00+00:00,Cal State Bakersfield Roadrunners,Idaho Vandals,153.5,-105,-115,Draft Kings,4,120.25,122.00,33.25,31.50,,153.5,,,,,,,,,153.5,,,,,
+2026-11-20,NCAAB,401912710,2026-11-21T02:00:00+00:00,Marshall Thundering Herd,North Carolina Tar Heels,157.5,-112,-108,Draft Kings,,,,,,,157.5,,,,,,,,,157.5,,,,,
+2026-11-20,NCAAB,401921691,2026-11-21T02:30:00+00:00,Seton Hall Pirates,NC State Wolfpack,140.5,-110,-110,Draft Kings,,,,,,146.26,140.5,,,,,,,,,140.5,,,,,
+2026-11-20,NCAAB,401925664,2026-11-21T03:00:00+00:00,Alabama State Hornets,Fresno State Bulldogs,145.5,-112,-108,Draft Kings,,,,,,161.47,145.5,,,,,,,,,145.5,,,,,
+2026-11-20,NCAAB,401911252,2026-11-21T04:00:00+00:00,Saint Louis Billikens,Saint Mary's Gaels,161.5,-110,-110,Draft Kings,,,,,,,161.5,,,,,,,,,161.5,,,,,
+2026-11-20,NCAAF,401856869,2026-11-20T23:00:00+00:00,Iowa State Cyclones,UCF Knights,49.5,-105,-115,Draft Kings,,,,,,52.57,49.5,,,,,,,,,49.5,,,,,
+2026-11-20,NCAAF,401858303,2026-11-21T00:30:00+00:00,Clemson Tigers,Duke Blue Devils,41.5,-105,-115,Draft Kings,3,55.67,41.00,-14.17,0.50,45.32,41.5,,,,,,,,,41.5,,,,,
+2026-11-20,NCAAF,401866468,2026-11-21T00:30:00+00:00,Bowling Green Falcons,Toledo Rockets,45.5,-112,-108,Draft Kings,10,66.00,66.50,-20.50,-21.00,54.96,45.5,over,Strong,-112,45.5,2:58 PM,0.711,0.183,,45.5,,,,,
+2026-11-20,NCAAF,401858529,2026-11-21T01:00:00+00:00,Oregon Ducks,Michigan State Spartans,43.5,-108,-112,Draft Kings,4,46.50,50.00,-3.00,-6.50,52.27,43.5,,,,,,,,,43.5,,,,,
+2026-11-20,NCAAF,401864545,2026-11-21T01:00:00+00:00,UTEP Miners,Air Force Falcons,48.5,-102,-118,Draft Kings,,,,,,50.86,48.5,,,,,,,,,48.5,,,,,
+2026-11-20,NCAAF,401864542,2026-11-21T02:00:00+00:00,New Mexico Lobos,Wyoming Cowboys,37.5,-110,-110,Draft Kings,10,51.50,43.00,-14.00,-5.50,41.44,37.5,over,Strong,-110,37.5,2:58 PM,0.592,0.068,,37.5,,,,,
+2026-11-20,NCAAW,401918660,2026-11-20T23:00:00+00:00,Marshall Thundering Herd,Kentucky Wildcats,132.5,-110,-110,DraftKings,,,,,,129.77,132.5,,,,,,,,,132.5,,,,,
+2026-11-20,NCAAW,401907052,2026-11-21T00:30:00+00:00,Little Rock Trojans,Oklahoma State Cowgirls,136.5,-110,-110,DraftKings,,,,,,132.95,136.5,,,,,,,,,136.5,,,,,
+2026-11-20,NCAAW,401923012,2026-11-21T01:00:00+00:00,Seton Hall Pirates,UConn Huskies,131.5,-110,-110,DraftKings,10,135.50,136.00,-4.00,-4.50,132.40,131.5,,,,,,,,,131.5,,,,,
+2026-11-20,NCAAW,401915982,2026-11-21T03:00:00+00:00,Stanford Cardinal,Washington Huskies,133.5,-110,-110,DraftKings,7,127.71,129.00,5.79,4.50,,133.5,,,,,,,,,133.5,,,,,
+2026-11-20,NCAAW,401918467,2026-11-21T04:00:00+00:00,Baylor Bears,USC Trojans,148.5,-110,-110,DraftKings,,,,,,,148.5,,,,,,,,,148.5,,,,,
