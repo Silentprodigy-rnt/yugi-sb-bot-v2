@@ -1747,15 +1747,15 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-19,NHL,401892751,2026-11-20T02:00:00+00:00,Anaheim Ducks,Colorado Avalanche,6.5,-125,+105,DraftKings,10,6.40,6.00,0.10,0.50,7.55,6.5,,,,,,,,,6.5,,,,4,under
 2026-11-19,NHL,401892752,2026-11-20T02:40:00+00:00,Vancouver Canucks,Seattle Kraken,6.5,-112,-108,Draft Kings,10,6.80,7.00,-0.30,-0.50,6.92,6.5,,,,,,,,,6.5,,,,6,under
 2026-11-19,NHL,401892753,2026-11-20T03:00:00+00:00,Dallas Stars,Vegas Golden Knights,5.5,-115,-105,Draft Kings,10,5.30,5.00,0.20,0.50,5.95,5.5,,,,,,,,,5.5,,,,7,over
-2026-11-20,NBA,401909305,2026-11-21T00:00:00+00:00,Charlotte Hornets,Atlanta Hawks,219.5,-105,-115,Draft Kings,10,230.70,231.00,-11.20,-11.50,223.28,219.5,,,,,,,,,219.5,,,,,
+2026-11-20,NBA,401909305,2026-11-21T00:00:00+00:00,Charlotte Hornets,Atlanta Hawks,219.5,-105,-115,Draft Kings,10,230.70,231.00,-11.20,-11.50,223.28,219.5,,,,,,,,,219.5,,,,208,under
 2026-11-20,NBA,401909306,2026-11-21T00:30:00+00:00,Orlando Magic,Brooklyn Nets,224.5,-107,-113,Draft Kings,10,210.00,211.50,14.50,13.00,226.45,224.5,,,,,,,,,224.5,,,,,
 2026-11-20,NBA,401909307,2026-11-21T00:30:00+00:00,Indiana Pacers,Cleveland Cavaliers,234.5,-107,-113,Draft Kings,10,234.70,234.50,-0.20,0.00,234.77,234.5,,,,,,,,,234.5,,,,,
 2026-11-20,NBA,401909308,2026-11-21T00:30:00+00:00,Toronto Raptors,Detroit Pistons,215.5,-114,-106,Draft Kings,10,226.10,224.50,-10.60,-9.00,226.33,215.5,over,Lean,-114,215.5,2:58 PM,0.721,0.188,,215.5,,,,,
 2026-11-20,NBA,401909309,2026-11-21T01:00:00+00:00,Washington Wizards,Chicago Bulls,237.5,-112,-108,Draft Kings,10,232.50,233.50,5.00,4.00,235.43,237.5,,,,,,,,,237.5,,,,,
 2026-11-20,NBA,401909310,2026-11-21T01:00:00+00:00,New Orleans Pelicans,Oklahoma City Thunder,227.5,-113,-107,Draft Kings,10,214.50,215.50,13.00,12.00,233.29,227.5,,,,,,,,,227.5,,,,,
-2026-11-20,NBA,401909311,2026-11-21T02:30:00+00:00,Phoenix Suns,Utah Jazz,225.5,-110,-110,Draft Kings,10,248.30,251.50,-22.80,-26.00,225.78,225.5,,,,,,,,,225.5,,,,,
-2026-11-20,NBA,401909312,2026-11-21T03:00:00+00:00,Houston Rockets,Denver Nuggets,226.5,-112,-108,Draft Kings,10,230.00,224.50,-3.50,2.00,230.52,226.5,,,,,,,,,226.5,,,,,
-2026-11-20,NBA,401909313,2026-11-21T03:00:00+00:00,Sacramento Kings,Los Angeles Lakers,229.5,-105,-115,Draft Kings,10,231.40,229.50,-1.90,0.00,235.29,229.5,,,,,,,,,229.5,,,,,
+2026-11-20,NBA,401909311,2026-11-21T02:30:00+00:00,Phoenix Suns,Utah Jazz,226.5,-105,-115,DraftKings,10,248.30,251.50,-21.80,-25.00,225.78,225.5,,,,,,,,,225.5,,,,,
+2026-11-20,NBA,401909312,2026-11-21T03:00:00+00:00,Houston Rockets,Denver Nuggets,227.5,-114,-106,DraftKings,10,230.00,224.50,-2.50,3.00,230.52,226.5,,,,,,,,,226.5,,,,,
+2026-11-20,NBA,401909313,2026-11-21T03:00:00+00:00,Sacramento Kings,Los Angeles Lakers,229.5,-105,-115,DraftKings,10,231.40,229.50,-1.90,0.00,235.29,229.5,,,,,,,,,229.5,,,,,
 2026-11-20,NCAAB,401920380,2026-11-20T20:00:00+00:00,Northwestern Wildcats,Virginia Tech Hokies,142.5,-112,-108,Draft Kings,,,,,,141.97,142.5,,,,,,,,,142.5,,,,,
 2026-11-20,NCAAB,401919826,2026-11-20T20:00:00+00:00,UAlbany Great Danes,Western Illinois Leathernecks,139.5,-108,-112,Draft Kings,,,,,,145.14,139.5,,,,,,,,,139.5,,,,,
 2026-11-20,NCAAB,401916123,2026-11-20T20:00:00+00:00,Indiana State Sycamores,Stephen F. Austin Lumberjacks,145.5,-112,-108,Draft Kings,,,,,,,145.5,,,,,,,,,145.5,,,,,
@@ -1800,9 +1800,9 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-20,NCAAB,401928795,2026-11-21T02:00:00+00:00,Sam Houston Bearkats,Boise State Broncos,170.5,-110,-110,Draft Kings,,,,,,,170.5,,,,,,,,,170.5,,,,,
 2026-11-20,NCAAB,401920137,2026-11-21T02:00:00+00:00,Cal State Bakersfield Roadrunners,Idaho Vandals,153.5,-105,-115,Draft Kings,4,120.25,122.00,33.25,31.50,,153.5,,,,,,,,,153.5,,,,,
 2026-11-20,NCAAB,401912710,2026-11-21T02:00:00+00:00,Marshall Thundering Herd,North Carolina Tar Heels,157.5,-112,-108,Draft Kings,,,,,,,157.5,,,,,,,,,157.5,,,,,
-2026-11-20,NCAAB,401921691,2026-11-21T02:30:00+00:00,Seton Hall Pirates,NC State Wolfpack,140.5,-110,-110,Draft Kings,,,,,,146.26,140.5,,,,,,,,,140.5,,,,,
-2026-11-20,NCAAB,401925664,2026-11-21T03:00:00+00:00,Alabama State Hornets,Fresno State Bulldogs,145.5,-112,-108,Draft Kings,,,,,,161.47,145.5,,,,,,,,,145.5,,,,,
-2026-11-20,NCAAB,401911252,2026-11-21T04:00:00+00:00,Saint Louis Billikens,Saint Mary's Gaels,161.5,-110,-110,Draft Kings,,,,,,,161.5,,,,,,,,,161.5,,,,,
+2026-11-20,NCAAB,401921691,2026-11-21T02:30:00+00:00,Seton Hall Pirates,NC State Wolfpack,140.5,-110,-110,DraftKings,,,,,,146.26,140.5,,,,,,,,,140.5,,,,,
+2026-11-20,NCAAB,401925664,2026-11-21T03:00:00+00:00,Alabama State Hornets,Fresno State Bulldogs,146.5,-105,-115,DraftKings,,,,,,161.47,145.5,,,,,,,,,145.5,,,,,
+2026-11-20,NCAAB,401911252,2026-11-21T04:00:00+00:00,Saint Louis Billikens,Saint Mary's Gaels,162.5,-105,-115,DraftKings,,,,,,,161.5,,,,,,,,,161.5,,,,,
 2026-11-20,NCAAF,401856869,2026-11-20T23:00:00+00:00,Iowa State Cyclones,UCF Knights,49.5,-105,-115,Draft Kings,,,,,,52.57,49.5,,,,,,,,,49.5,,,,,
 2026-11-20,NCAAF,401858303,2026-11-21T00:30:00+00:00,Clemson Tigers,Duke Blue Devils,41.5,-105,-115,Draft Kings,3,55.67,41.00,-14.17,0.50,45.32,41.5,,,,,,,,,41.5,,,,,
 2026-11-20,NCAAF,401866468,2026-11-21T00:30:00+00:00,Bowling Green Falcons,Toledo Rockets,45.5,-112,-108,Draft Kings,10,66.00,66.50,-20.50,-21.00,54.96,45.5,over,Strong,-112,45.5,2:58 PM,0.711,0.183,,45.5,,,,,
@@ -1813,4 +1813,4 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-20,NCAAW,401907052,2026-11-21T00:30:00+00:00,Little Rock Trojans,Oklahoma State Cowgirls,136.5,-110,-110,DraftKings,,,,,,132.95,136.5,,,,,,,,,136.5,,,,,
 2026-11-20,NCAAW,401923012,2026-11-21T01:00:00+00:00,Seton Hall Pirates,UConn Huskies,131.5,-110,-110,DraftKings,10,135.50,136.00,-4.00,-4.50,132.40,131.5,,,,,,,,,131.5,,,,,
 2026-11-20,NCAAW,401915982,2026-11-21T03:00:00+00:00,Stanford Cardinal,Washington Huskies,133.5,-110,-110,DraftKings,7,127.71,129.00,5.79,4.50,,133.5,,,,,,,,,133.5,,,,,
-2026-11-20,NCAAW,401918467,2026-11-21T04:00:00+00:00,Baylor Bears,USC Trojans,148.5,-110,-110,DraftKings,,,,,,,148.5,,,,,,,,,148.5,,,,,
+2026-11-20,NCAAW,401918467,2026-11-21T04:00:00+00:00,Baylor Bears,USC Trojans,150.5,-110,-110,DraftKings,,,,,,,148.5,,,,,,,,,148.5,,,,,
