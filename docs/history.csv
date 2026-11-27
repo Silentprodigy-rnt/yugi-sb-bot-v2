@@ -2151,10 +2151,10 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-26,NCAAB,401920530,2026-11-27T02:00:00+00:00,Louisville Cardinals,St. John's Red Storm,160.5,-115,-105,Draft Kings,,,,,,158.20,160.5,,,,,,,,,160.5,,,,,
 2026-11-26,NCAAB,401920539,2026-11-27T02:00:00+00:00,Alabama Crimson Tide,Kansas State Wildcats,169.5,-115,-105,Draft Kings,,,,,,162.00,169.5,,,,,,,,,169.5,,,,,
 2026-11-26,NCAAB,401917546,2026-11-27T03:30:00+00:00,Pacific Tigers,Omaha Mavericks,139.5,-110,-110,Draft Kings,,,,,,140.60,139.5,,,,,,,,,139.5,,,,,
-2026-11-26,NCAAB,401920531,2026-11-27T04:30:00+00:00,Texas Tech Red Raiders,Oregon Ducks,148.5,-112,-108,Draft Kings,,,,,,147.57,148.5,,,,,,,,,148.5,,,,,
-2026-11-26,NCAAB,401920540,2026-11-27T04:30:00+00:00,Baylor Bears,Gonzaga Bulldogs,153.5,-108,-112,Draft Kings,3,149.00,156.00,4.50,-2.50,153.35,153.5,,,,,,,,,153.5,,,,,
+2026-11-26,NCAAB,401920531,2026-11-27T04:30:00+00:00,Texas Tech Red Raiders,Oregon Ducks,149.5,-110,-110,DraftKings,,,,,,147.57,148.5,,,,,,,,,148.5,,,,,
+2026-11-26,NCAAB,401920540,2026-11-27T04:30:00+00:00,Baylor Bears,Gonzaga Bulldogs,153.5,-108,-112,DraftKings,3,149.00,156.00,4.50,-2.50,153.35,153.5,,,,,,,,,153.5,,,,,
 2026-11-26,NCAAF,401856879,2026-11-27T01:00:00+00:00,TCU Horned Frogs,Texas Tech Red Raiders,46.5,-115,-105,Draft Kings,10,60.80,60.50,-14.30,-14.00,52.13,46.5,over,Strong,-115,46.5,4:23 PM,0.630,0.095,,46.5,,,,,
 2026-11-26,NCAAW,401903570,2026-11-26T23:30:00+00:00,Minnesota Golden Gophers,Missouri State Lady Bears,132.5,-110,-110,DraftKings,,,,,,134.08,132.5,,,,,,,,,132.5,,,,,
-2026-11-26,NFL,401873081,2026-11-26T18:00:00+00:00,Chicago Bears,Detroit Lions,,,,,10,48.00,47.00,,,51.98,,,,,,,,,,,,,,,
-2026-11-26,NFL,401873080,2026-11-26T21:30:00+00:00,Philadelphia Eagles,Dallas Cowboys,49.5,-117,-103,Draft Kings,10,52.70,47.00,-3.20,2.50,51.15,49.5,,,,,,,,,49.5,,,,,
+2026-11-26,NFL,401873081,2026-11-26T18:00:00+00:00,Chicago Bears,Detroit Lions,,,,,10,48.00,47.00,,,51.98,,,,,,,,,,,,,,74,no line
+2026-11-26,NFL,401873080,2026-11-26T21:30:00+00:00,Philadelphia Eagles,Dallas Cowboys,49.5,-117,-103,Draft Kings,10,52.70,47.00,-3.20,2.50,51.15,49.5,,,,,,,,,49.5,,,,77,over
 2026-11-26,NFL,401873082,2026-11-27T01:20:00+00:00,Kansas City Chiefs,Buffalo Bills,45.5,-113,-107,Draft Kings,10,53.40,51.00,-7.90,-5.50,46.66,45.5,,,,,,,,,45.5,,,,,
