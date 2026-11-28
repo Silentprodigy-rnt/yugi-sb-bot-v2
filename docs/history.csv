@@ -2158,10 +2158,10 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-26,NFL,401873081,2026-11-26T18:00:00+00:00,Chicago Bears,Detroit Lions,,,,,10,48.00,47.00,,,51.98,,,,,,,,,,,,,,74,no line
 2026-11-26,NFL,401873080,2026-11-26T21:30:00+00:00,Philadelphia Eagles,Dallas Cowboys,49.5,-117,-103,Draft Kings,10,52.70,47.00,-3.20,2.50,51.15,49.5,,,,,,,,,49.5,,,,77,over
 2026-11-26,NFL,401873082,2026-11-27T01:20:00+00:00,Kansas City Chiefs,Buffalo Bills,45.5,-113,-107,Draft Kings,10,53.40,51.00,-7.90,-5.50,46.66,45.5,,,,,,,,,45.5,,,,23,under
-2026-11-27,NBA,401909326,2026-11-28T00:00:00+00:00,Miami Heat,New York Knicks,221.5,-115,-105,DraftKings,10,228.10,225.50,-6.60,-4.00,221.74,221.5,,,,,,,,,221.5,,,,,
-2026-11-27,NBA,401909327,2026-11-28T00:30:00+00:00,Milwaukee Bucks,Detroit Pistons,219.5,-107,-113,DraftKings,10,246.10,244.50,-26.60,-25.00,225.21,219.5,over,Lean,-107,219.5,4:03 PM,0.621,0.104,,219.5,,,,,
-2026-11-27,NBA,401909328,2026-11-28T00:30:00+00:00,Philadelphia 76ers,Indiana Pacers,229.5,-110,-110,DraftKings,10,225.20,221.50,4.30,8.00,225.73,229.5,,,,,,,,,229.5,,,,,
-2026-11-27,NBA,401909329,2026-11-28T00:30:00+00:00,Brooklyn Nets,Toronto Raptors,219.5,-112,-108,DraftKings,10,213.10,218.00,6.40,1.50,224.96,219.5,,,,,,,,,219.5,,,,,
+2026-11-27,NBA,401909326,2026-11-28T00:00:00+00:00,Miami Heat,New York Knicks,221.5,-115,-105,DraftKings,10,228.10,225.50,-6.60,-4.00,221.74,221.5,,,,,,,,,221.5,,,,213,under
+2026-11-27,NBA,401909327,2026-11-28T00:30:00+00:00,Milwaukee Bucks,Detroit Pistons,219.5,-107,-113,DraftKings,10,246.10,244.50,-26.60,-25.00,225.21,219.5,over,Lean,-107,219.5,4:03 PM,0.621,0.104,under,219.5,,,,211,under
+2026-11-27,NBA,401909328,2026-11-28T00:30:00+00:00,Philadelphia 76ers,Indiana Pacers,229.5,-110,-110,DraftKings,10,225.20,221.50,4.30,8.00,225.73,229.5,,,,,,,,,229.5,,,,198,under
+2026-11-27,NBA,401909329,2026-11-28T00:30:00+00:00,Brooklyn Nets,Toronto Raptors,219.5,-112,-108,DraftKings,10,213.10,218.00,6.40,1.50,224.96,219.5,,,,,,,,,219.5,,,,224,over
 2026-11-27,NBA,401909330,2026-11-28T01:00:00+00:00,Atlanta Hawks,Boston Celtics,223.5,-112,-108,DraftKings,10,229.40,233.50,-5.90,-10.00,224.45,223.5,,,,,,,,,223.5,,,,,
 2026-11-27,NBA,401909331,2026-11-28T01:30:00+00:00,Memphis Grizzlies,Minnesota Timberwolves,219.5,-114,-106,DraftKings,10,232.60,226.50,-13.10,-7.00,224.34,219.5,,,,,,,,,219.5,,,,,
 2026-11-27,NBA,401909332,2026-11-28T02:00:00+00:00,Dallas Mavericks,Phoenix Suns,225.5,-110,-110,DraftKings,10,227.70,233.50,-2.20,-8.00,228.43,225.5,,,,,,,,,225.5,,,,,
@@ -2195,9 +2195,9 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-27,NCAAB,401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,170.5,-110,-110,DraftKings,,,,,,162.55,170.5,,,,,,,,,170.5,,,,,
 2026-11-27,NCAAB,401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,148.5,-116,-105,DraftKings,,,,,,144.15,148.5,,,,,,,,,148.5,,,,,
 2026-11-27,NCAAB,401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,158.5,-105,-115,DraftKings,,,,,,155.75,158.5,,,,,,,,,158.5,,,,,
-2026-11-27,NCAAB,401926783,2026-11-28T03:30:00+00:00,Jacksonville State Gamecocks,Omaha Mavericks,139.5,-106,-114,DraftKings,,,,,,145.46,139.5,,,,,,,,,139.5,,,,,
+2026-11-27,NCAAB,401926783,2026-11-28T03:30:00+00:00,Jacksonville State Gamecocks,Omaha Mavericks,138.5,-111,-109,DraftKings,,,,,,145.46,139.5,,,,,,,,,139.5,,,,,
 2026-11-27,NCAAB,401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,160.5,-109,-111,DraftKings,,,,,,155.88,160.5,,,,,,,,,160.5,,,,,
-2026-11-27,NCAAB,401920535,2026-11-28T04:30:00+00:00,San Diego State Aztecs,Texas Tech Red Raiders,142.5,-110,-110,DraftKings,,,,,,142.33,142.5,,,,,,,,,142.5,,,,,
+2026-11-27,NCAAB,401920535,2026-11-28T04:30:00+00:00,San Diego State Aztecs,Texas Tech Red Raiders,141.5,-116,-104,DraftKings,,,,,,142.33,142.5,,,,,,,,,142.5,,,,,
 2026-11-27,NCAAF,401864546,2026-11-27T21:30:00+00:00,Air Force Falcons,New Mexico Lobos,42.5,-115,-105,DraftKings,10,61.90,66.00,-19.40,-23.50,49.39,42.5,over,Strong,-115,42.5,4:03 PM,0.657,0.123,,42.5,,,,,
 2026-11-27,NCAAF,401856756,2026-11-28T00:30:00+00:00,Texas Longhorns,Texas A&M Aggies,41.5,-110,-110,DraftKings,,,,,,45.76,41.5,,,,,,,,,41.5,,,,,
 2026-11-27,NCAAF,401858544,2026-11-28T00:30:00+00:00,Minnesota Golden Gophers,Wisconsin Badgers,37.5,-110,-110,DraftKings,10,39.50,38.00,-2.00,-0.50,45.41,37.5,,,,,,,,,37.5,,,,,
@@ -2207,19 +2207,19 @@ date,league,event_id,start_utc,away,home,line,over_price,under_price,book,h2h_ga
 2026-11-27,NCAAW,401916121,2026-11-27T22:30:00+00:00,Penn State Lady Lions,Baylor Bears,146.5,-110,-110,DraftKings,,,,,,141.20,146.5,,,,,,,,,146.5,,,,,
 2026-11-27,NCAAW,401906095,2026-11-28T00:00:00+00:00,Army Black Knights,North Carolina Tar Heels,121.5,-110,-110,DraftKings,,,,,,126.29,121.5,,,,,,,,,121.5,,,,,
 2026-11-27,NCAAW,401903575,2026-11-28T02:00:00+00:00,Cincinnati Bearcats,Minnesota Golden Gophers,132.5,-110,-110,DraftKings,,,,,,130.36,132.5,,,,,,,,,132.5,,,,,
-2026-11-27,NFL,401873083,2026-11-27T20:00:00+00:00,Denver Broncos,Pittsburgh Steelers,,,,,6,42.17,43.50,,,43.42,,,,,,,,,,,,,,,
+2026-11-27,NFL,401873083,2026-11-27T20:00:00+00:00,Denver Broncos,Pittsburgh Steelers,,,,,6,42.17,43.50,,,43.42,,,,,,,,,,,,,,32,no line
 2026-11-27,NHL,401892795,2026-11-27T18:00:00+00:00,Toronto Maple Leafs,Boston Bruins,,,,,10,6.10,6.50,,,7.00,,,,,,,,,,,,,,4,no line
 2026-11-27,NHL,401892796,2026-11-27T18:00:00+00:00,Calgary Flames,New Jersey Devils,,,,,10,6.60,7.50,,,6.22,,,,,,,,,,,,,,8,no line
 2026-11-27,NHL,401892797,2026-11-27T18:00:00+00:00,Utah Mammoth,Nashville Predators,,,,,7,6.43,7.00,,,6.28,,,,,,,,,,,,,,11,no line
-2026-11-27,NHL,401892798,2026-11-27T19:00:00+00:00,Dallas Stars,St. Louis Blues,,,,,10,4.90,4.00,,,6.20,,,,,,,,,,,,,,,
-2026-11-27,NHL,401892799,2026-11-27T20:00:00+00:00,Ottawa Senators,Tampa Bay Lightning,,,,,10,6.90,6.50,,,5.78,,,,,,,,,,,,,,,
-2026-11-27,NHL,401892800,2026-11-27T20:00:00+00:00,Vancouver Canucks,Philadelphia Flyers,,,,,10,5.10,5.00,,,6.71,,,,,,,,,,,,,,,
-2026-11-27,NHL,401892801,2026-11-27T20:00:00+00:00,Florida Panthers,Washington Capitals,,,,,10,7.20,7.00,,,6.85,,,,,,,,,,,,,,,
-2026-11-27,NHL,401892802,2026-11-27T20:00:00+00:00,Detroit Red Wings,Columbus Blue Jackets,,,,,10,7.60,7.00,,,5.55,,,,,,,,,,,,,,,
-2026-11-27,NHL,401892803,2026-11-27T21:00:00+00:00,Colorado Avalanche,Minnesota Wild,6.5,+110,-130,DraftKings,10,6.80,6.50,-0.30,0.00,6.59,6.5,,,,,,,,,6.5,,,,,
-2026-11-27,NHL,401892804,2026-11-27T21:00:00+00:00,Los Angeles Kings,Anaheim Ducks,6.5,-108,-112,DraftKings,10,5.00,4.50,1.50,2.00,6.64,6.5,,,,,,,,,6.5,,,,,
-2026-11-27,NHL,401892805,2026-11-27T21:00:00+00:00,Vegas Golden Knights,San Jose Sharks,6.5,-115,-105,DraftKings,10,7.50,8.00,-1.00,-1.50,6.14,6.5,,,,,,,,,6.5,,,,,
-2026-11-27,NHL,401892806,2026-11-27T22:30:00+00:00,New York Rangers,Chicago Blackhawks,6.5,+114,-135,DraftKings,10,6.10,7.00,0.40,-0.50,5.95,6.5,,,,,,,,,6.5,,,,,
-2026-11-27,NHL,401892807,2026-11-28T00:30:00+00:00,Winnipeg Jets,New York Islanders,6.5,-110,-110,DraftKings,10,6.40,7.00,0.10,-0.50,6.62,6.5,,,,,,,,,6.5,,,,,
+2026-11-27,NHL,401892798,2026-11-27T19:00:00+00:00,Dallas Stars,St. Louis Blues,,,,,10,4.90,4.00,,,6.20,,,,,,,,,,,,,,8,no line
+2026-11-27,NHL,401892799,2026-11-27T20:00:00+00:00,Ottawa Senators,Tampa Bay Lightning,,,,,10,6.90,6.50,,,5.78,,,,,,,,,,,,,,8,no line
+2026-11-27,NHL,401892800,2026-11-27T20:00:00+00:00,Vancouver Canucks,Philadelphia Flyers,,,,,10,5.10,5.00,,,6.71,,,,,,,,,,,,,,7,no line
+2026-11-27,NHL,401892801,2026-11-27T20:00:00+00:00,Florida Panthers,Washington Capitals,,,,,10,7.20,7.00,,,6.85,,,,,,,,,,,,,,5,no line
+2026-11-27,NHL,401892802,2026-11-27T20:00:00+00:00,Detroit Red Wings,Columbus Blue Jackets,,,,,10,7.60,7.00,,,5.55,,,,,,,,,,,,,,2,no line
+2026-11-27,NHL,401892803,2026-11-27T21:00:00+00:00,Colorado Avalanche,Minnesota Wild,6.5,+110,-130,DraftKings,10,6.80,6.50,-0.30,0.00,6.59,6.5,,,,,,,,,6.5,,,,7,over
+2026-11-27,NHL,401892804,2026-11-27T21:00:00+00:00,Los Angeles Kings,Anaheim Ducks,6.5,-108,-112,DraftKings,10,5.00,4.50,1.50,2.00,6.64,6.5,,,,,,,,,6.5,,,,8,over
+2026-11-27,NHL,401892805,2026-11-27T21:00:00+00:00,Vegas Golden Knights,San Jose Sharks,6.5,-115,-105,DraftKings,10,7.50,8.00,-1.00,-1.50,6.14,6.5,,,,,,,,,6.5,,,,5,under
+2026-11-27,NHL,401892806,2026-11-27T22:30:00+00:00,New York Rangers,Chicago Blackhawks,6.5,+114,-135,DraftKings,10,6.10,7.00,0.40,-0.50,5.95,6.5,,,,,,,,,6.5,,,,3,under
+2026-11-27,NHL,401892807,2026-11-28T00:30:00+00:00,Winnipeg Jets,New York Islanders,6.5,-110,-110,DraftKings,10,6.40,7.00,0.10,-0.50,6.62,6.5,,,,,,,,,6.5,,,,4,under
 2026-11-27,NHL,401892808,2026-11-28T01:00:00+00:00,Pittsburgh Penguins,Buffalo Sabres,6.5,-115,-105,DraftKings,10,6.40,6.00,0.10,0.50,6.36,6.5,,,,,,,,,6.5,,,,,
 2026-11-27,NHL,401892809,2026-11-28T01:00:00+00:00,Seattle Kraken,Edmonton Oilers,6.5,-108,-112,DraftKings,10,6.00,5.50,0.50,1.00,6.80,6.5,,,,,,,,,6.5,,,,,
